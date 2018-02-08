@@ -1,1 +1,1 @@
-# My Demo | [![StyleCI](https://styleci.io/repos/120827812/shield?branch=master)](https://styleci.io/repos/120827812) 
+# My Demo | [![StyleCI](https://styleci.io/repos/120827812/shield?branch=master)](https://styleci.io/repos/120827812) [![Build Status](https://travis-ci.org/benjam-es/my-testing-demo.svg?branch=master)](https://travis-ci.org/benjam-es/my-testing-demo)
